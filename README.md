@@ -65,3 +65,6 @@ This project is an implementation of Unix shell, a simple command interpreter.
 
 ## Authors
 [Atharva Lohangade](https://github.com/athlohangade)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
